@@ -3,13 +3,13 @@ an open source publication of my latest EP - some chill tunes to help usher in t
 
 Welcome to the repository for edge of amsterdam, a 2-song DIY indie rock EP released under a **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-This project is meant to be shared, remixed, and expanded by the community. Think of it as an **open source album**: free to listen to and build on.
+This project can be downloaded, shared, remixed, and expanded by other humans. 
 
 ---
 
 ## Listen
-- [[Spotify link]](https://open.spotify.com/album/2Wvw8Mrss4rrjAVpv8LmVr?si=o5TZnqfOTliTpqlNYCCdfg)
-- Or download the audio files directly from the `/audio` folder in this repo.
+- Download the audio files directly from the `/audio` folder in this repo.
+- Or listen to it via this (less cool) [[Spotify link]](https://open.spotify.com/album/2Wvw8Mrss4rrjAVpv8LmVr?si=o5TZnqfOTliTpqlNYCCdfg)
 
 ---
 
