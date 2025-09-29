@@ -1,5 +1,5 @@
 # edge-of-amsterdam
-an open source publication of my latest EP - some chill tunes to help usher in this Autumn
+an open source publication of my latest EP - some chill tunes to help usher in this autumn.
 
 Welcome to the repository for edge of amsterdam, a 2-song DIY indie rock EP released under a **Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
