@@ -1,10 +1,9 @@
 # Credits
 
-**[Your Artist Name]** — Original songs, production, artwork.
+**[Max Kortlander]** — Original songs, production, artwork.
 
 ### Special Thanks
-- [List of collaborators, producers, engineers]
-- [Any community supporters, friends, or inspirations]
+y'all
 
 ### Community Contributions
 This section will grow as remixes, artwork, and zines are submitted.
